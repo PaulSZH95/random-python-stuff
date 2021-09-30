@@ -1,2 +1,2 @@
-"# random-python-stuff" 
-"# random-python-stuff" 
+# Feel free to download the files.
+## The video walkthrough is here
